@@ -1,0 +1,6 @@
+\\ADS1\Apps$\System\Sys Utilities\Safari311Setup.exe
+/quiet ADDLOCAL=Safari,CRT_WinSXS
+C:\Program Files\Safari\Safari.exe
+\\ADS1\Apps$\Office 2007\setup.exe
+
+C:\Program Files\Microsoft Office\Office12\winword.exe
