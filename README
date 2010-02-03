@@ -1,0 +1,1 @@
+Abstracts the complexity of VBScript into a simple command line tool used to perform tasks such as "createNetworkDrive url_path drive_letter [drive_name]" on initial Windows login
